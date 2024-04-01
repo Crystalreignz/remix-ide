@@ -10,7 +10,7 @@ To select a contract to compile, choose a file in the File Explorer. Or if there
 
 If there is not an active file in the editor or a file has not already been compiled, then the Solidity compiler will look like this:
 
-![](images/a-sol-comp-no-file.png)
+![]0.6.6+commit.6c089d02
 
 ### Triggering compilation
 Compiling is triggered when you:
